@@ -1,0 +1,22 @@
+# react-native-web - Example
+
+
+This is just a sample project for hands-on with react-native-web
+
+  - Clone and use
+  - All basic configs done
+  - Latest RN
+
+### Installation
+
+Just clone the repo
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ yarn
+$ yarn start
+$ yarn run android
+$ yarn run ios
+$ yarn run web
+```
